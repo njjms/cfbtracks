@@ -1,0 +1,12 @@
+name: CFBtracks
+title: CFBtracks
+username:
+account: njjms
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2023503
+bundleId: 2945567
+url: https://njjms.shinyapps.io/CFBtracks/
+when: 1585598079.3792
+asMultiple: FALSE
+asStatic: FALSE

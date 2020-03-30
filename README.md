@@ -1,3 +1,5 @@
+Hosted on shinyapps.io [here](https://njjms.shinyapps.io/CFBtracks/).
+
 ## How is roster talent related to wins in college football?
 
 Unlike any other major sports league, college football relies almost entirely on recruiting high school age players.

@@ -4,7 +4,6 @@ library(ggrepel)
 library(shinyjs)
 library(plotly)
 
-setwd("C:/Users/njnic/Documents/CFBtracks")
 wintalentdata <- read.csv("wintalentdata.csv")
 wintalentdata <- wintalentdata[,-c(1,2)]
 colnames(wintalentdata) <- c("School", "Season", "coaches", "Wins", "Talent Rating", "color", "Conference")
