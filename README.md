@@ -11,6 +11,8 @@ The metric for recruiting success is the *Talent Composite Score* taken from [24
 The score is one number describing a team's entire roster at the beginning of the season.
 It takes into account the indivudal ratings of the players from a variety of recruiting websites and journals.
 
+![](exampleplot.PNG)
+
 ## Usage
 
 We can select teams to include in our plot by picking from the conference dropdown and using the checkboxes.
