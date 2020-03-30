@@ -1,0 +1,649 @@
+,school,year,coaches,wins
+1,Boston College,2015,Steve Addazio,3
+2,Boston College,2016,Steve Addazio,7
+3,Boston College,2017,Steve Addazio,7
+4,Boston College,2018,Steve Addazio,7
+5,Boston College,2019,Steve Addazio,6
+6,Oregon State,2015,Gary Andersen,2
+7,Oregon State,2016,Gary Andersen,4
+8,Oregon State,2017,"Gary Andersen, Cory Hall",1
+,Oregon State,2018,Jonathan Smith,2
+9,Oregon State,2019,Jonathan Smith,5
+10,Arkansas State,2015,Blake Anderson,9
+11,Arkansas State,2016,Blake Anderson,8
+12,Arkansas State,2017,Blake Anderson,7
+13,Arkansas State,2018,Blake Anderson,8
+14,Arkansas State,2019,Blake Anderson,8
+15,Bowling Green,2015,Dino Babers,10
+16,Bowling Green,2016,Mike Jinks,4
+17,Bowling Green,2017,Mike Jinks,2
+18,Bowling Green,2018,"Mike Jinks, Carl Pelini",3
+19,Bowling Green,2019,Scot Loeffler,3
+20,Rice,2015,David Bailiff,5
+21,Rice,2016,David Bailiff,3
+22,Rice,2017,David Bailiff,1
+23,Rice,2018,Mike Bloomgren,2
+24,Rice,2019,Mike Bloomgren,3
+25,Virginia Tech,2015,Frank Beamer,7
+26,Virginia Tech,2016,Justin Fuente,10
+27,Virginia Tech,2017,Justin Fuente,9
+28,Virginia Tech,2018,Justin Fuente,6
+29,Virginia Tech,2019,Justin Fuente,8
+30,Kansas,2015,David Beaty,0
+31,Kansas,2016,David Beaty,2
+32,Kansas,2017,David Beaty,1
+33,Kansas,2018,David Beaty,3
+34,Kansas,2019,Les Miles,3
+35,Arkansas,2015,Bret Bielema,8
+36,Arkansas,2016,Bret Bielema,7
+37,Arkansas,2017,Bret Bielema,4
+38,Arkansas,2018,Chad Morris,2
+39,Arkansas,2019,"Barry Lunney Jr., Chad Morris",2
+40,Colorado State,2015,Mike Bobo,7
+41,Colorado State,2016,Mike Bobo,7
+42,Colorado State,2017,Mike Bobo,7
+43,Colorado State,2018,Mike Bobo,3
+44,Colorado State,2019,Mike Bobo,4
+45,Wyoming,2015,Craig Bohl,2
+46,Wyoming,2016,Craig Bohl,8
+47,Wyoming,2017,Craig Bohl,8
+48,Wyoming,2018,Craig Bohl,6
+49,Wyoming,2019,Craig Bohl,8
+50,Central Michigan,2015,John Bonamego,7
+51,Central Michigan,2016,John Bonamego,6
+52,Central Michigan,2017,John Bonamego,8
+53,Central Michigan,2018,John Bonamego,1
+54,Central Michigan,2019,Jim McElwain,8
+55,Akron,2015,Terry Bowden,8
+56,Akron,2016,Terry Bowden,5
+57,Akron,2017,Terry Bowden,7
+58,Akron,2018,Terry Bowden,4
+59,Akron,2019,Tom Arth,0
+60,Baylor,2015,Art Briles,10
+61,Baylor,2016,Jim Grobe,7
+62,Baylor,2017,Matt Rhule,1
+63,Baylor,2018,Matt Rhule,7
+64,Baylor,2019,Matt Rhule,11
+65,Western Kentucky,2015,Jeff Brohm,12
+66,Western Kentucky,2016,Jeff Brohm,10
+67,Western Kentucky,2017,Mike Sanford,6
+68,Western Kentucky,2018,"Bobby Petrino, Mike Sanford",5
+69,Western Kentucky,2019,Tyson Helton,9
+70,Troy,2015,Neal Brown,4
+71,Troy,2016,Neal Brown,10
+72,Troy,2017,Neal Brown,11
+73,Troy,2018,Neal Brown,10
+74,Troy,2019,Chip Lindsey,5
+75,Air Force,2015,Troy Calhoun,8
+76,Air Force,2016,Troy Calhoun,10
+77,Air Force,2017,Troy Calhoun,5
+78,Air Force,2018,Troy Calhoun,5
+79,Air Force,2019,Troy Calhoun,11
+80,Toledo,2015,"Matt Campbell, Jason Candle",10
+81,Toledo,2016,Jason Candle,9
+82,Toledo,2017,Jason Candle,11
+83,Toledo,2018,Jason Candle,7
+84,Toledo,2019,Jason Candle,6
+85,Northern Illinois,2015,Rod Carey,8
+86,Northern Illinois,2016,Rod Carey,5
+87,Northern Illinois,2017,Rod Carey,8
+88,Northern Illinois,2018,Rod Carey,8
+89,Northern Illinois,2019,Thomas Hammock,5
+90,Wisconsin,2015,Paul Chryst,10
+91,Wisconsin,2016,Paul Chryst,11
+92,Wisconsin,2017,Paul Chryst,13
+93,Wisconsin,2018,Paul Chryst,8
+94,Wisconsin,2019,Paul Chryst,10
+95,Wake Forest,2015,Dave Clawson,3
+96,Wake Forest,2016,Dave Clawson,7
+97,Wake Forest,2017,Dave Clawson,8
+98,Wake Forest,2018,Dave Clawson,7
+99,Wake Forest,2019,Dave Clawson,8
+100,UT San Antonio,2015,Larry Coker,3
+101,UT San Antonio,2016,Frank Wilson,6
+102,UT San Antonio,2017,Frank Wilson,6
+103,UT San Antonio,2018,Frank Wilson,3
+104,UT San Antonio,2019,Frank Wilson,4
+105,Eastern Michigan,2015,Chris Creighton,1
+106,Eastern Michigan,2016,Chris Creighton,7
+107,Eastern Michigan,2017,Chris Creighton,5
+108,Eastern Michigan,2018,Chris Creighton,7
+109,Eastern Michigan,2019,Chris Creighton,6
+110,Illinois,2015,Bill Cubit,5
+111,Illinois,2016,Lovie Smith,3
+112,Illinois,2017,Lovie Smith,2
+113,Illinois,2018,Lovie Smith,4
+114,Illinois,2019,Lovie Smith,6
+115,Duke,2015,David Cutcliffe,8
+116,Duke,2016,David Cutcliffe,4
+117,Duke,2017,David Cutcliffe,7
+118,Duke,2018,David Cutcliffe,8
+119,Duke,2019,David Cutcliffe,5
+120,Michigan State,2015,Mark Dantonio,12
+121,Michigan State,2016,Mark Dantonio,3
+122,Michigan State,2017,Mark Dantonio,10
+123,Michigan State,2018,Mark Dantonio,7
+124,Michigan State,2019,Mark Dantonio,7
+125,New Mexico,2015,Bob Davie,7
+126,New Mexico,2016,Bob Davie,9
+127,New Mexico,2017,Bob Davie,3
+128,New Mexico,2018,Bob Davie,3
+129,New Mexico,2019,Bob Davie,2
+130,NC State,2015,Dave Doeren,7
+131,NC State,2016,Dave Doeren,7
+132,NC State,2017,Dave Doeren,9
+133,NC State,2018,Dave Doeren,9
+134,NC State,2019,Dave Doeren,4
+135,Maryland,2015,Randy Edsall,2
+136,Maryland,2016,D.J. Durkin,6
+137,Maryland,2017,D.J. Durkin,4
+138,Maryland,2018,"Matt Canada, Randy Edsall",6
+139,Maryland,2019,"Randy Edsall, Mike Locksley",5
+140,South Carolina,2015,"Shawn Elliott, Steve Spurrier",3
+141,South Carolina,2016,Will Muschamp,6
+142,South Carolina,2017,Will Muschamp,9
+143,South Carolina,2018,Will Muschamp,7
+144,South Carolina,2019,Will Muschamp,4
+145,North Carolina,2015,Larry Fedora,11
+146,North Carolina,2016,Larry Fedora,8
+147,North Carolina,2017,Larry Fedora,3
+148,North Carolina,2018,Larry Fedora,2
+149,North Carolina,2019,Mack Brown,7
+150,Iowa,2015,Kirk Ferentz,12
+151,Iowa,2016,Kirk Ferentz,8
+152,Iowa,2017,Kirk Ferentz,8
+153,Iowa,2018,Kirk Ferentz,9
+154,Iowa,2019,Kirk Ferentz,10
+155,Florida State,2015,Jimbo Fisher,10
+156,Florida State,2016,Jimbo Fisher,10
+157,Florida State,2017,"Jimbo Fisher, Odell Haggins",7
+158,Florida State,2018,Willie Taggart,5
+159,Florida State,2019,"Odell Haggins, Willie Taggart",6
+160,Northwestern,2015,Pat Fitzgerald,10
+161,Northwestern,2016,Pat Fitzgerald,7
+162,Northwestern,2017,Pat Fitzgerald,10
+163,Northwestern,2018,Pat Fitzgerald,9
+164,Northwestern,2019,Pat Fitzgerald,3
+165,Western Michigan,2015,P.J. Fleck,8
+166,Western Michigan,2016,P.J. Fleck,13
+167,Western Michigan,2017,Tim Lester,6
+168,Western Michigan,2018,Tim Lester,7
+169,Western Michigan,2019,Tim Lester,7
+170,Texas State,2015,Dennis Franchione,3
+171,Texas State,2016,Everett Withers,2
+172,Texas State,2017,Everett Withers,2
+173,Texas State,2018,"Everett Withers, Chris Woods",3
+174,Texas State,2019,Jake Spavital,3
+175,Penn State,2015,James Franklin,7
+176,Penn State,2016,James Franklin,11
+177,Penn State,2017,James Franklin,11
+178,Penn State,2018,James Franklin,9
+179,Penn State,2019,James Franklin,11
+180,Georgia Southern,2015,Willie Fritz,9
+181,Georgia Southern,2016,Tyson Summers,5
+182,Georgia Southern,2017,"Chad Lunsford, Tyson Summers",2
+183,Georgia Southern,2018,Chad Lunsford,10
+184,Georgia Southern,2019,Chad Lunsford,7
+185,Memphis,2015,Justin Fuente,9
+186,Memphis,2016,Mike Norvell,8
+187,Memphis,2017,Mike Norvell,10
+188,Memphis,2018,Mike Norvell,8
+189,Memphis,2019,Mike Norvell,12
+190,Miami,2015,Al Golden,4
+191,Miami,2016,Mark Richt,9
+192,Miami,2017,Mark Richt,10
+193,Miami,2018,Mark Richt,7
+194,Miami,2019,Manny Diaz,6
+195,Arizona State,2015,Todd Graham,6
+196,Arizona State,2016,Todd Graham,5
+197,Arizona State,2017,Todd Graham,7
+,Arizona State,2018,Herman Edwards,7
+198,Arizona State,2019,Herman Edwards,8
+199,Oklahoma State,2015,Mike Gundy,10
+200,Oklahoma State,2016,Mike Gundy,10
+201,Oklahoma State,2017,Mike Gundy,10
+202,Oklahoma State,2018,Mike Gundy,7
+203,Oklahoma State,2019,Mike Gundy,8
+204,Michigan,2015,Jim Harbaugh,10
+205,Michigan,2016,Jim Harbaugh,10
+206,Michigan,2017,Jim Harbaugh,8
+207,Michigan,2018,Jim Harbaugh,10
+208,Michigan,2019,Jim Harbaugh,9
+209,Boise State,2015,Bryan Harsin,9
+210,Boise State,2016,Bryan Harsin,10
+211,Boise State,2017,Bryan Harsin,11
+212,Boise State,2018,Bryan Harsin,10
+213,Boise State,2019,Bryan Harsin,12
+214,Kent State,2015,Paul Haynes,3
+215,Kent State,2016,Paul Haynes,3
+216,Kent State,2017,Paul Haynes,2
+,Kent State,2018,Sean Lewis,2
+217,Kent State,2017,Sean Lewis,7
+218,USC,2015,Clay Helton,5
+219,USC,2016,Clay Helton,10
+220,USC,2017,Clay Helton,11
+221,USC,2018,Clay Helton,5
+222,USC,2019,Clay Helton,8
+223,Houston,2015,Tom Herman,13
+224,Houston,2016,"Major Applewhite, Tom Herman",9
+225,Houston,2017,Major Applewhite,7
+226,Houston,2018,Major Applewhite,8
+227,Houston,2019,Dana Holgorsen,4
+228,West Virginia,2015,Dana Holgorsen,8
+229,West Virginia,2016,Dana Holgorsen,10
+230,West Virginia,2017,Dana Holgorsen,7
+231,West Virginia,2018,Dana Holgorsen,8
+232,West Virginia,2019,Neal Brown,5
+233,Marshall,2015,Doc Holliday,10
+234,Marshall,2016,Doc Holliday,3
+235,Marshall,2017,Doc Holliday,8
+236,Marshall,2018,Doc Holliday,9
+237,Marshall,2019,Doc Holliday,8
+238,Louisiana Tech,2015,Skip Holtz,9
+239,Louisiana Tech,2016,Skip Holtz,9
+240,Louisiana Tech,2017,Skip Holtz,7
+241,Louisiana Tech,2018,Skip Holtz,8
+242,Louisiana Tech,2019,Skip Holtz,10
+243,Louisiana,2015,Mark Hudspeth,4
+244,Louisiana,2016,Mark Hudspeth,6
+245,Louisiana,2017,Mark Hudspeth,5
+246,Louisiana,2018,Billy Napier,7
+247,Louisiana,2019,Billy Napier,11
+248,Georgia Tech,2015,Paul Johnson,3
+249,Georgia Tech,2016,Paul Johnson,9
+250,Georgia Tech,2017,Paul Johnson,5
+251,Georgia Tech,2018,Paul Johnson,7
+252,Georgia Tech,2019,Geoff Collins,3
+253,Tennessee,2015,Butch Jones,9
+254,Tennessee,2016,Butch Jones,9
+255,Tennessee,2017,"Brady Hoke, Butch Jones",4
+256,Tennessee,2018,Jeremy Pruitt,5
+257,Tennessee,2019,Jeremy Pruitt,8
+258,South Alabama,2015,Joey Jones,5
+259,South Alabama,2016,Joey Jones,6
+260,South Alabama,2017,Joey Jones,4
+261,South Alabama,2018,Steve Campbell,3
+262,South Alabama,2019,Steve Campbell,2
+263,Notre Dame,2015,Brian Kelly,10
+264,Notre Dame,2016,Brian Kelly,4
+265,Notre Dame,2017,Brian Kelly,10
+266,Notre Dame,2018,Brian Kelly,12
+267,Notre Dame,2019,Brian Kelly,11
+268,Minnesota,2015,Jerry Kill,4
+,Minnesota,2016,Tracy Claeys,9
+269,Minnesota,2017,P.J. Fleck,5
+270,Minnesota,2018,P.J. Fleck,7
+271,Minnesota,2019,P.J. Fleck,11
+272,Texas Tech,2015,Kliff Kingsbury,7
+273,Texas Tech,2016,Kliff Kingsbury,5
+274,Texas Tech,2017,Kliff Kingsbury,6
+275,Texas Tech,2018,Kliff Kingsbury,5
+276,Texas Tech,2019,Matt Wells,4
+277,UTEP,2015,Sean Kugler,5
+278,UTEP,2016,Sean Kugler,4
+279,UTEP,2017,"Sean Kugler, Mike Price",0
+280,UTEP,2018,Dana Dimel,1
+281,UTEP,2019,Dana Dimel,1
+282,Charlotte,2015,Brad Lambert,2
+283,Charlotte,2016,Brad Lambert,4
+284,Charlotte,2017,Brad Lambert,1
+285,Charlotte,2018,Brad Lambert,5
+286,Charlotte,2019,Will Healy,7
+287,Washington State,2015,Mike Leach,9
+288,Washington State,2016,Mike Leach,8
+289,Washington State,2017,Mike Leach,9
+290,Washington State,2018,Mike Leach,11
+291,Washington State,2019,Mike Leach,6
+292,Buffalo,2015,Lance Leipold,5
+293,Buffalo,2016,Lance Leipold,2
+294,Buffalo,2017,Lance Leipold,6
+295,Buffalo,2018,Lance Leipold,10
+296,Buffalo,2019,Lance Leipold,8
+297,San Diego State,2015,Rocky Long,11
+298,San Diego State,2016,Rocky Long,11
+299,San Diego State,2017,Rocky Long,10
+300,San Diego State,2018,Rocky Long,7
+301,San Diego State,2019,Rocky Long,10
+302,Colorado,2015,Mike MacIntyre,4
+303,Colorado,2016,Mike MacIntyre,10
+304,Colorado,2017,Mike MacIntyre,5
+305,Colorado,2018,"Mike MacIntyre, Kurt Roper",5
+306,Colorado,2019,Mel Tucker,5
+307,Auburn,2015,Gus Malzahn,7
+308,Auburn,2016,Gus Malzahn,8
+309,Auburn,2017,Gus Malzahn,10
+310,Auburn,2018,Gus Malzahn,8
+311,Auburn,2019,Gus Malzahn,9
+312,Miami (OH),2015,Chuck Martin,3
+313,Miami (OH),2016,Chuck Martin,6
+314,Miami (OH),2017,Chuck Martin,5
+315,Miami (OH),2018,Chuck Martin,6
+316,Miami (OH),2019,Chuck Martin,8
+317,New Mexico State,2015,Doug Martin,3
+318,New Mexico State,2016,Doug Martin,3
+319,New Mexico State,2017,Doug Martin,7
+320,New Mexico State,2018,Doug Martin,3
+321,New Mexico State,2019,Doug Martin,2
+322,Vanderbilt,2015,Derek Mason,4
+323,Vanderbilt,2016,Derek Mason,6
+324,Vanderbilt,2017,Derek Mason,5
+325,Vanderbilt,2018,Derek Mason,6
+326,Vanderbilt,2019,Derek Mason,3
+327,North Texas,2015,Dan McCarney,0
+328,North Texas,2016,Seth Littrell,5
+329,North Texas,2017,Seth Littrell,9
+330,North Texas,2018,Seth Littrell,9
+331,North Texas,2019,Seth Littrell,4
+332,Florida,2015,Jim McElwain,10
+333,Florida,2016,Jim McElwain,9
+334,Florida,2017,"Jim McElwain, Randy Shannon",4
+335,Florida,2018,Dan Mullen,10
+336,Florida,2019,Dan Mullen,11
+337,BYU,2015,Bronco Mendenhall,9
+338,BYU,2016,Kalani Sitake,9
+339,BYU,2017,Kalani Sitake,4
+340,BYU,2018,Kalani Sitake,7
+341,BYU,2019,Kalani Sitake,7
+342,Ohio State,2015,Urban Meyer,12
+343,Ohio State,2016,Urban Meyer,11
+344,Ohio State,2017,Urban Meyer,12
+345,Ohio State,2018,"Ryan Day, Urban Meyer",13
+346,Ohio State,2019,Ryan Day,13
+347,LSU,2015,Les Miles,9
+348,LSU,2016,"Les Miles, Ed Orgeron",8
+349,LSU,2017,Ed Orgeron,9
+350,LSU,2018,Ed Orgeron,10
+351,LSU,2019,Ed Orgeron,15
+352,Army,2015,Jeff Monken,2
+353,Army,2016,Jeff Monken,8
+354,Army,2017,Jeff Monken,10
+355,Army,2018,Jeff Monken,11
+356,Army,2019,Jeff Monken,5
+357,Tulsa,2015,Philip Montgomery,6
+358,Tulsa,2016,Philip Montgomery,10
+359,Tulsa,2017,Philip Montgomery,2
+360,Tulsa,2018,Philip Montgomery,3
+361,Tulsa,2019,Philip Montgomery,4
+362,UCLA,2015,Jim Mora,8
+363,UCLA,2016,Jim Mora,4
+364,UCLA,2017,"Jedd Fisch, Jim Mora",6
+365,UCLA,2018,Chip Kelly,3
+366,UCLA,2019,Chip Kelly,4
+367,SMU,2015,Chad Morris,2
+368,SMU,2016,Chad Morris,5
+369,SMU,2017,Chad Morris,7
+370,SMU,2018,Sonny Dykes,5
+371,SMU,2019,Sonny Dykes,10
+372,Mississippi State,2015,Dan Mullen,9
+373,Mississippi State,2016,Dan Mullen,6
+374,Mississippi State,2017,"Greg Knox, Dan Mullen",9
+375,Mississippi State,2018,Joe Moorhead,8
+376,Mississippi State,2019,Joe Moorhead,6
+377,Pittsburgh,2015,Pat Narduzzi,8
+378,Pittsburgh,2016,Pat Narduzzi,8
+379,Pittsburgh,2017,Pat Narduzzi,5
+380,Pittsburgh,2018,Pat Narduzzi,7
+381,Pittsburgh,2019,Pat Narduzzi,8
+382,Navy,2015,Ken Niumatalolo,11
+383,Navy,2016,Ken Niumatalolo,9
+384,Navy,2017,Ken Niumatalolo,7
+385,Navy,2018,Ken Niumatalolo,3
+386,Navy,2019,Ken Niumatalolo,11
+387,UCF,2015,George O'Leary,0
+388,UCF,2016,Scott Frost,6
+389,UCF,2017,Scott Frost,13
+390,UCF,2018,Josh Heupel,12
+391,UCF,2019,Josh Heupel,10
+392,TCU,2015,Gary Patterson,11
+393,TCU,2016,Gary Patterson,6
+394,TCU,2017,Gary Patterson,11
+395,TCU,2018,Gary Patterson,7
+396,TCU,2019,Gary Patterson,5
+397,Washington,2015,Chris Petersen,7
+398,Washington,2016,Chris Petersen,12
+399,Washington,2017,Chris Petersen,10
+400,Washington,2018,Chris Petersen,10
+401,Washington,2019,Chris Petersen,8
+402,Louisville,2015,Bobby Petrino,8
+403,Louisville,2016,Bobby Petrino,9
+404,Louisville,2017,Bobby Petrino,8
+405,Louisville,2018,Lorenzo Ward,0
+406,Louisville,2019,Scott Satterfield,8
+407,Idaho,2015,Paul Petrino,4
+408,Idaho,2016,Paul Petrino,9
+409,Idaho,2017,Paul Petrino,4
+410,Missouri,2015,Gary Pinkel,5
+411,Missouri,2016,Barry Odom,4
+412,Missouri,2017,Barry Odom,7
+413,Missouri,2018,Barry Odom,8
+414,Missouri,2019,Barry Odom,6
+415,Temple,2015,Matt Rhule,10
+416,Temple,2016,Matt Rhule,10
+417,Temple,2017,Geoff Collins,7
+418,Temple,2018,"Geoff Collins, Ed Foley",8
+419,Temple,2019,Rod Carey,8
+420,Georgia,2015,Mark Richt,9
+421,Georgia,2016,Kirby Smart,8
+422,Georgia,2017,Kirby Smart,13
+423,Georgia,2018,Kirby Smart,11
+424,Georgia,2019,Kirby Smart,12
+425,Nebraska,2015,Mike Riley,6
+426,Nebraska,2016,Mike Riley,9
+427,Nebraska,2017,Mike Riley,4
+428,Nebraska,2018,Scott Frost,4
+429,Nebraska,2019,Scott Frost,5
+430,Arizona,2015,Rich Rodriguez,7
+431,Arizona,2016,Rich Rodriguez,3
+432,Arizona,2017,Rich Rodriguez,7
+433,Arizona,2018,Kevin Sumlin,5
+434,Arizona,2019,Kevin Sumlin,4
+435,Alabama,2015,Nick Saban,14
+436,Alabama,2016,Nick Saban,14
+437,Alabama,2017,Nick Saban,13
+438,Alabama,2018,Nick Saban,14
+439,Alabama,2019,Nick Saban,11
+440,UNLV,2015,Tony Sanchez,3
+441,UNLV,2016,Tony Sanchez,4
+442,UNLV,2017,Tony Sanchez,5
+443,UNLV,2018,Tony Sanchez,4
+444,UNLV,2019,Tony Sanchez,4
+445,Appalachian State,2015,Scott Satterfield,11
+446,Appalachian State,2016,Scott Satterfield,10
+447,Appalachian State,2017,Scott Satterfield,9
+448,Appalachian State,2018,"Mark Ivey, Scott Satterfield",11
+449,Appalachian State,2019,"Shawn Clark, Eli Drinkwitz",13
+450,Stanford,2015,David Shaw,12
+451,Stanford,2016,David Shaw,10
+452,Stanford,2017,David Shaw,9
+453,Stanford,2018,David Shaw,9
+454,Stanford,2019,David Shaw,4
+455,Kansas State,2015,Bill Snyder,6
+456,Kansas State,2016,Bill Snyder,9
+457,Kansas State,2017,Bill Snyder,8
+458,Kansas State,2018,Bill Snyder,5
+459,Kansas State,2019,Chris Klieman,8
+460,Ohio,2015,Frank Solich,8
+461,Ohio,2016,Frank Solich,8
+462,Ohio,2017,Frank Solich,9
+463,Ohio,2018,Frank Solich,9
+464,Ohio,2019,Frank Solich,7
+465,Middle Tennessee,2015,Rick Stockstill,7
+466,Middle Tennessee,2016,Rick Stockstill,8
+467,Middle Tennessee,2017,Rick Stockstill,7
+468,Middle Tennessee,2018,Rick Stockstill,8
+469,Middle Tennessee,2019,Rick Stockstill,4
+470,Oklahoma,2015,Bob Stoops,11
+471,Oklahoma,2016,Bob Stoops,11
+472,Oklahoma,2017,Lincoln Riley,12
+473,Oklahoma,2018,Lincoln Riley,12
+474,Oklahoma,2019,Lincoln Riley,12
+475,Kentucky,2015,Mark Stoops,5
+476,Kentucky,2016,Mark Stoops,7
+477,Kentucky,2017,Mark Stoops,7
+478,Kentucky,2018,Mark Stoops,10
+479,Kentucky,2019,Mark Stoops,8
+480,Texas,2015,Charlie Strong,5
+481,Texas,2016,Charlie Strong,5
+482,Texas,2017,Tom Herman,7
+483,Texas,2018,Tom Herman,10
+484,Texas,2019,Tom Herman,8
+485,Texas A&M,2015,Kevin Sumlin,8
+486,Texas A&M,2016,Kevin Sumlin,8
+487,Texas A&M,2017,"Jeff Banks, Kevin Sumlin",7
+488,Texas A&M,2018,Jimbo Fisher,9
+489,Texas A&M,2019,Jimbo Fisher,8
+490,Clemson,2015,Dabo Swinney,14
+491,Clemson,2016,Dabo Swinney,14
+492,Clemson,2017,Dabo Swinney,12
+493,Clemson,2018,Dabo Swinney,15
+494,Clemson,2019,Dabo Swinney,14
+495,South Florida,2015,Willie Taggart,8
+496,South Florida,2016,Willie Taggart,10
+497,South Florida,2017,Charlie Strong,10
+498,South Florida,2018,Charlie Strong,7
+499,South Florida,2019,Charlie Strong,4
+500,Cincinnati,2015,Tommy Tuberville,7
+501,Cincinnati,2016,Tommy Tuberville,4
+502,Cincinnati,2017,Luke Fickell,4
+503,Cincinnati,2018,Luke Fickell,11
+504,Cincinnati,2019,Luke Fickell,11
+505,Florida International,2015,Ron Turner,5
+506,Florida International,2016,Ron Turner,0
+507,Florida International,2017,Butch Davis,8
+508,Florida International,2018,Butch Davis,9
+509,Florida International,2019,Butch Davis,6
+510,Utah State,2015,Matt Wells,6
+511,Utah State,2016,Matt Wells,3
+512,Utah State,2017,Matt Wells,6
+513,Utah State,2018,"Frank Maile, Matt Wells",11
+,Utah State,2019,Gary Andersen,7
+514,UMass,2015,Mark Whipple,3
+515,UMass,2016,Mark Whipple,2
+516,UMass,2017,Mark Whipple,4
+517,UMass,2018,Mark Whipple,4
+518,UMass,2019,Walt Bell,1
+519,Utah,2015,Kyle Whittingham,10
+520,Utah,2016,Kyle Whittingham,9
+521,Utah,2017,Kyle Whittingham,7
+522,Utah,2018,Kyle Whittingham,9
+523,Utah,2019,Kyle Whittingham,11
+524,Old Dominion,2015,Bobby Wilder,5
+525,Old Dominion,2016,Bobby Wilder,10
+526,Old Dominion,2017,Bobby Wilder,5
+527,Old Dominion,2018,Bobby Wilder,4
+528,Old Dominion,2019,Bobby Wilder,1
+,Indiana,2015,Kevin Wilson,6
+529,Indiana,2016,"Tom Allen, Kevin Wilson",6
+530,Indiana,2017,Tom Allen,5
+531,Indiana,2018,Tom Allen,5
+532,Indiana,2019,Tom Allen,8
+,Rutgers,2015,"Kyle Flood, Norries Wilson",4
+533,Rutgers,2016,Chris Ash,2
+534,Rutgers,2017,Chris Ash,4
+535,Rutgers,2018,Chris Ash,1
+536,Rutgers,2019,"Chris Ash, Nunzio Campanile",2
+,Syracuse,2015,Scott Shafer,4
+537,Syracuse,2016,Dino Babers,4
+538,Syracuse,2017,Dino Babers,4
+539,Syracuse,2018,Dino Babers,10
+540,Syracuse,2019,Dino Babers,5
+,Iowa State,2015,Paul Rhoads,3
+541,Iowa State,2016,Matt Campbell,3
+542,Iowa State,2017,Matt Campbell,8
+543,Iowa State,2018,Matt Campbell,8
+544,Iowa State,2019,Matt Campbell,7
+,Tulane,2015,Curtis Johnson,3
+545,Tulane,2016,Willie Fritz,4
+546,Tulane,2017,Willie Fritz,5
+547,Tulane,2018,Willie Fritz,7
+548,Tulane,2019,Willie Fritz,7
+,Southern Mississippi,2015,Todd Monken,9
+549,Southern Mississippi,2016,Jay Hopson,7
+550,Southern Mississippi,2017,Jay Hopson,8
+551,Southern Mississippi,2018,Jay Hopson,6
+552,Southern Mississippi,2019,Jay Hopson,7
+,Virginia,2015,Mike London,4
+553,Virginia,2016,Bronco Mendenhall,2
+554,Virginia,2017,Bronco Mendenhall,6
+555,Virginia,2018,Bronco Mendenhall,8
+556,Virginia,2019,Bronco Mendenhall,9
+,East Carolina,2015,Ruffin McNeill,5
+557,East Carolina,2016,Scottie Montgomery,3
+558,East Carolina,2017,Scottie Montgomery,3
+559,East Carolina,2018,"David Blackwell, Scottie Montgomery",3
+560,East Carolina,2019,Mike Houston,4
+,Ball State,2015,Pete Lembo,3
+561,Ball State,2016,Mike Neu,4
+562,Ball State,2017,Mike Neu,2
+563,Ball State,2018,Mike Neu,4
+564,Ball State,2019,Mike Neu,5
+,Hawai'i,2015,"Norm Chow, Chris Naeole",3
+565,Hawai'i,2016,Nick Rolovich,7
+566,Hawai'i,2017,Nick Rolovich,3
+567,Hawai'i,2018,Nick Rolovich,8
+568,Hawai'i,2019,Nick Rolovich,10
+,Louisiana Monroe,2015,"Todd Berry, John Mumford",2
+569,Louisiana Monroe,2016,Matt Viator,4
+570,Louisiana Monroe,2017,Matt Viator,4
+571,Louisiana Monroe,2018,Matt Viator,6
+572,Louisiana Monroe,2019,Matt Viator,5
+,San José State,2015,Ron Caragher,6
+,San José State,2016,Ron Caragher,4
+573,San José State,2017,Brent Brennan,2
+574,San José State,2018,Brent Brennan,1
+575,San José State,2019,Brent Brennan,5
+,Purdue,2015,Darrell Hazell,2
+,Purdue,2016,"Darrell Hazell, Gerad Parker",3
+576,Purdue,2017,Jeff Brohm,7
+577,Purdue,2018,Jeff Brohm,6
+578,Purdue,2019,Jeff Brohm,4
+,Coastal Carolina,2015,Joe Moglia,9
+,Coastal Carolina,2016,Joe Moglia,10
+579,Coastal Carolina,2017,Jamey Chadwell,3
+580,Coastal Carolina,2018,Joe Moglia,5
+581,Coastal Carolina,2019,Jamey Chadwell,5
+582,UAB,2017,Bill Clark,8
+583,UAB,2018,Bill Clark,11
+584,UAB,2019,Bill Clark,9
+,Connecticut,2015,Bob Diaco,6
+,Connecticut,2016,Bob Diaco,3
+585,Connecticut,2017,Randy Edsall,3
+,Connecticut,2018,Randy Edsall,1
+585,Connecticut,2019,Randy Edsall,2
+,Georgia State,2015,Trent Miles,6
+,Georgia State,2016,"Trent Miles, Tim Lappano",3
+586,Georgia State,2017,Shawn Elliott,7
+587,Georgia State,2018,Shawn Elliott,2
+588,Georgia State,2019,Shawn Elliott,7
+,Florida Atlantic,2015,Charlie Partridge,3
+,Florida Atlantic,2016,Charlie Partridge,3
+589,Florida Atlantic,2017,Lane Kiffin,11
+590,Florida Atlantic,2018,Lane Kiffin,5
+591,Florida Atlantic,2019,Lane Kiffin,11
+,Ole Miss,2015,Hugh Freeze,10
+,Ole Miss,2016,Hugh Freeze,0
+592,Ole Miss,2017,Matt Luke,6
+593,Ole Miss,2018,Matt Luke,5
+594,Ole Miss,2019,Matt Luke,4
+,Nevada,2015,Brian Polian,7
+,Nevada,2016,Brian Polian,5
+595,Nevada,2017,Jay Norvell,3
+596,Nevada,2018,Jay Norvell,8
+597,Nevada,2019,Jay Norvell,7
+,Oregon,2015,Mark Helfrich,9
+,Oregon,2016,Mark Helfrich,4
+598,Oregon,2017,"Willie Taggart, Mario Cristobal",7
+599,Oregon,2018,Mario Cristobal,9
+600,Oregon,2019,Mario Cristobal,12
+,Fresno State,2015,Tim DeRuyter,3
+,Fresno State,2016,"Tim DeRuyter, Eric Kiesau",1
+601,Fresno State,2017,Jeff Tedford,10
+602,Fresno State,2018,Jeff Tedford,12
+603,Fresno State,2019,Jeff Tedford,4
+,California,2015,Sonny Dykes,8
+,California,2016,Sonny Dykes,5
+604,California,2017,Justin Wilcox,5
+605,California,2018,Justin Wilcox,7
+606,California,2019,Justin Wilcox,8
+607,Liberty,2018,Turner Gill,6
+608,Liberty,2019,Hugh Freeze,8

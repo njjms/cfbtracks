@@ -6,8 +6,8 @@ library(plotly)
 
 setwd("C:/Users/njnic/Documents/CFBtracks")
 wintalentdata <- read.csv("wintalentdata.csv")
-colnames(wintalentdata) <- c("X", "School", "Season", "coaches", "Wins", "Talent Rating", "color", "Conference")
-head(wintalentdata)
+wintalentdata <- wintalentdata[,-c(1,2)]
+colnames(wintalentdata) <- c("School", "Season", "coaches", "Wins", "Talent Rating", "color", "Conference")
 
 b10_teams <- c("Ohio State",
                "Michigan",
@@ -258,7 +258,7 @@ ui <- navbarPage(
   ),
   
   tabPanel("How to Use",
-           headerPanel(includeMarkdown("help.md")),
+           headerPanel(includeMarkdown("README.md")),
   
            mainPanel(
              img(src = "exampleplot.png", align = "center", height = "500px", width = "auto")
@@ -404,8 +404,8 @@ server <- function(input, output, session) {
           values = as.character(unique(select(arrange(subset(wintalentdata, School %in% c("Penn State", "USC", "Oregon State", "Army", "Boise State")), School), c("School", "color")))$color)
         ) +
         scale_x_continuous("Number of Wins",
-                           limits = c(0, 13),
-                           breaks = seq(0, 13, 1)) +
+                           limits = c(0, 15),
+                           breaks = seq(0, 15, 1)) +
         scale_y_continuous("Composite Talent Score",
                            breaks = seq(0, 1000, 100)) +
         theme(
@@ -424,8 +424,8 @@ server <- function(input, output, session) {
       
       p <- ggplot() +
       scale_x_continuous("Number of Wins",
-                         limits = c(0, 13),
-                         breaks = seq(0, 13, 1)) +
+                         limits = c(0, 15),
+                         breaks = seq(0, 15, 1)) +
       scale_y_continuous("Composite Talent Score",
                          breaks = seq(0, 1000, 100)) +
       theme(
@@ -447,8 +447,8 @@ server <- function(input, output, session) {
         values = as.character(unique(select(arrange(selectedteams(), School), c("School", "color")))$color)
       ) +
       scale_x_continuous("Number of Wins",
-                         limits = c(0, 13),
-                         breaks = seq(0, 13, 1)) +
+                         limits = c(0, 15),
+                         breaks = seq(0, 15, 1)) +
       scale_y_continuous("Composite Talent Score",
                          breaks = seq(0, 1000, 100)) +
       theme(

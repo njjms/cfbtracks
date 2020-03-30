@@ -41,6 +41,8 @@ getcoachingdata <- function(year) {
     }
 }
 
+getcoachingdata("2018") %>% filter(grepl("Arizona State", seasons))
+
 lapply(years, getcoachingdata) %>% bind_rows() -> coaches
 
 coaches_data <- data.frame(school = character(),
@@ -48,18 +50,54 @@ coaches_data <- data.frame(school = character(),
                            coach_name = character(),
                            wins = numeric())
 
-for (coach in 1:nrow(coaches)) {
+for (row in 1:nrow(coaches)) {
   
-    coach_name <- paste(coaches[coach,"first_name"], coaches[coach, "last_name"])
-    school <- coaches$seasons[[coach]]$school
-    year <- coaches$seasons[[coach]]$year
-    wins <- coaches$seasons[[coach]]$wins
+    coach_name <- paste(coaches[row,"first_name"], coaches[row, "last_name"])
+    school <- coaches$seasons[[row]]$school
+    year <- coaches$seasons[[row]]$year
+    wins <- coaches$seasons[[row]]$wins
     
     coachdata <- data.frame(school, year, coach_name, wins)
     coaches_data <- rbind(coaches_data, coachdata)
 }
 
-write.csv(coaches_data, "coaches.csv")
+get_coach_name <- function(names) {
+  
+  #' helper function which concatenates coach names for schools with multiple coaches in a season
+
+  if (length(unique(names)) == 1){
+    return(names[1])
+  } else {
+    return(paste(names, collapse = ', '))
+  }
+}
+
+coaches_data %>% 
+  group_by(school, year) %>% 
+  summarise(
+    coaches = as.character(get_coach_name(coach_name)),
+    wins = sum(wins)
+  ) -> coaches_data
+
+write.csv(coaches_data, "coaches_data.csv")
+
+# There's some missing data in coaches_data.csv -- will need to fix manually
+
+coaches_data %>% 
+  group_by(school) %>%
+  summarise(
+    count = n()
+  ) %>%
+  arrange(count) -> missing_rows
+
+
+coaches %>% filter(grepl("Indiana", seasons))
+coaches_data %>% filter(school == "Oregon State")
+data.frame(school = "Oregon State",
+           year = 2018,
+           coach_name = "Jonathan Smith",
+           wins = 2) -> row_replace
+coaches_data[coaches_data$coach_name == "Gary Andersen" & coaches_data$year == 2019,] <- row_replace
 
 #### Get conference data
 
@@ -75,8 +113,11 @@ fromJSON(colorurl) %>%
 
 #### Join together to get win-talent data
 
+coaches_data <- read_csv("coaches_data.csv")
 colnames(coaches_data)
 colnames(talent)
+
+talent[talent$school == "Clemson",]
 
 left_join(coaches_data, talent, by=c("school", "year")) %>%
     left_join(., colors, by = "school") %>% 
