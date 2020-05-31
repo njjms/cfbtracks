@@ -13,8 +13,6 @@ The metric for recruiting success is the *Talent Composite Score* taken from [24
 The score is one number describing a team's entire roster at the beginning of the season.
 It takes into account the indivudal ratings of the players from a variety of recruiting websites and journals.
 
-![](exampleplot.PNG)
-
 ## Usage
 
 We can select teams to include in our plot by picking from the conference dropdown and using the checkboxes.
@@ -29,14 +27,10 @@ Lastly, mousing over the points brings up a tooltip that includes the head coach
 
 Using this app, we can make visualizations like the one to the one below.
 
-Here we can see that USC is in the top echelon of recruiting *despite* their lackluster recent seasons, indicating that they are such a big name that they are pretty much impervious to recruiting downturn.
+![](exampleplot.PNG)
 
-Penn State is not far behind them and it appears that their recent success in 2016 has bumped them in recruiting.
+While Michigan and Ohio State might think of themselves as equal footed rivals, recent history has put a significant gulf in between the Wolverines and Buckeyes, both in wins and talent score.
 
-Oregon State and Boise State are comparable in recruiting, despite Boise State having consistently more wins that Oregon State.
-This suggests that simply being in a Power 5 conference like the Pac-12 boosts even rebuilding teams like the Beavers.
-
-Lastly, we have Army who despite their recent successes are towards the bottom of the recruiting heirarchy.
-This is likely a by-product of Army having a rigorous selection process - it takes more than being good at football to get recruited by West Point!
-
-
+Penn State meanwhile has made a remarkable rebuild, shooting up and past Michigan in recent success.
+Michigan State has had a large flucturation in wins which seems to have impacted their talent levels somewhat.
+And poor Rutgers, you'll make it back someday!
